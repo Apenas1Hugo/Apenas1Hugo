@@ -1,5 +1,5 @@
 ## Olá sou Hugo Rodrigues
-- 👀 Me interesso computação em nuvem e desenvolvimento de games 
+- 👀 Me interesso por computação em nuvem e desenvolvimento de games 
 - 🌱 Estudando Python
 - 📫 Contate-me no email: hugorodriguesm27@gmail.com
 - ⚡ Eu gosto de Bolo e café
