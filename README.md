@@ -10,6 +10,8 @@
     src="https://github-readme-stats.vercel.app/api?username=apenas1hugo&show_icons=true&theme=radical"
     alt="Hugo GitHub stats"
   />
+  <br/>
+  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenas1hugo&layout=compact&theme=radical"
